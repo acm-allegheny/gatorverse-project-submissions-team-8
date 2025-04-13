@@ -1,6 +1,6 @@
 from tools.subtask import Subtask
 from tools.workflow import workflow as Workflow  # Ensure correct capitalization
-
+# Github Copilot was used to help with the code in this file.
 # This file is meant to be the functions based around our taskbar that will hold all of our tasks.
 # The general idea is to have a taskbar that will hold all of our tasks and allow us to add, remove, and edit tasks.
 # The taskbar will be a list of tasks that will be displayed in the taskbar.

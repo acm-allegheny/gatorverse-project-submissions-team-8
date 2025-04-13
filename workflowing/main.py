@@ -1,7 +1,7 @@
 from tools.taskbar import create_taskbar, add_workflow, delete_workflow
 from tools.workflow import workflow as Workflow  # Ensure correct capitalization
 from tools.subtask import Subtask
-
+# Github Copilot was used to help with the code in this file.
 taskbar = create_taskbar()
 exit_program = False  # Corrected loop condition variable
 tabbed_taskbar = 1

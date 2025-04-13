@@ -1,5 +1,5 @@
 #File dealing with subtasks to be under the workflow class.
-
+# Github Copilot was used to help with the code in this file.
 class Subtask:
     """
     This class will hold all of the information for a subtask.
